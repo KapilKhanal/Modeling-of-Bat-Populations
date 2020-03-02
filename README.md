@@ -4,7 +4,7 @@ Gemini is a modern LaTeX [beamerposter] theme.
 
 <p align="center">
 <a href="">
-<img src="">
+<img src="https://github.com/KapilKhanal/Modeling-of-Bat-Populations/blob/master/Gemini_poster_theme.png">
 </a>
 </p>
 
