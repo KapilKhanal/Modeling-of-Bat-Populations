@@ -1,6 +1,6 @@
-# Gemini
+# Modeling
 
-Gemini is a modern LaTeX [beamerposter] theme.
+
 
 <p align="center">
 <a href="">
