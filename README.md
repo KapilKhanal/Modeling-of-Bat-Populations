@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="">
-<img src="https://github.com/KapilKhanal/Modeling-of-Bat-Populations/blob/master/Gemini_poster_theme.png">
+<img src="https://github.com/KapilKhanal/Modeling-of-Bat-Populations/blob/master/bat_poster_v3.pdf">
 </a>
 </p>
 
